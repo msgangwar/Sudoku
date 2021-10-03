@@ -17,19 +17,19 @@ public class Sudoku extends Frame implements KeyListener,WindowListener,ActionLi
 	
 	Sudoku(){
 		
-		submit=new Button("SUBMIT");
-		reset=new Button("RESET");
-		result=new TextField(40);
-		but1=new TextField(10);
-		but2=new TextField(10);
-		but3=new TextField(10);
-		but4=new TextField(10);
-		but5=new TextField(10);
-		but6=new TextField(10);
-		but7=new TextField(10);
-		but8=new TextField(10);
-		but9=new TextField(10);
-		but10=new TextField(10);
+	submit=new Button("SUBMIT");
+	reset=new Button("RESET");
+	result=new TextField(40);
+	but1=new TextField(10);
+	but2=new TextField(10);
+	but3=new TextField(10);
+	but4=new TextField(10);
+	but5=new TextField(10);
+	but6=new TextField(10);
+	but7=new TextField(10);
+	but8=new TextField(10);
+	but9=new TextField(10);
+	but10=new TextField(10);
         but11=new TextField(10);
         but12=new TextField(10);
         but13=new TextField(10);
