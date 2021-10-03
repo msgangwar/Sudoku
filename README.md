@@ -1,2 +1,2 @@
 # Sudoku
-### AWT Project
+### AWT Project(java)
